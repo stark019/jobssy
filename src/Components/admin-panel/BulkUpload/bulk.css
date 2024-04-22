@@ -1,0 +1,9 @@
+.bulkuploadcontainer{
+    display: flex;
+}
+
+.bulkuploadbox{
+    margin-top: 5%;
+    align-items: center;
+    justify-content: center;
+}

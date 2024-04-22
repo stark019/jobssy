@@ -1,0 +1,12 @@
+body{
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    min-width: 100vw;
+    min-height: 100vh;
+    overflow-x: hidden;
+    font-style: normal;
+}
+
+.adminButtons{
+    background-color: #4B6587;
+    color: white;
+}

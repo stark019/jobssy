@@ -1,0 +1,11 @@
+body{
+    background-color: #F7F6F2;
+}
+
+.updateJobContainer{
+    display: flex;
+}
+
+.updateJobBox{
+    margin-left: 20%;
+}

@@ -1,0 +1,62 @@
+[    
+    {
+        "id":1,
+        "title": "General Manager/Vice President/Head - Production - Ethyl Acetate",
+        "company": "Perfect Placers",
+        "exp": "10",
+        "ctc": "10", 
+        "location": ["Kolkata", "Mumbai"],
+        "desc": "Compliance with company EHS policy in all aspects of production during the shift operat...",
+        "postedOn": "09-07-2022"
+    },
+    {
+        "id":2,
+        "title": "Application Architect- .Net (Remote)",
+        "company": "Medline",
+        "exp": "10",
+        "ctc": "3",
+        "location": ["Hyderabad", "Pune"],
+        "desc": "This is a brand new role establishing .Net Architecting capabilities in India.",
+        "postedOn": "08-13-2022"
+    },
+    {
+        "id":3,
+        "title": "Azure Manager-PWC",
+        "company": "PwC",
+        "exp": "10",
+        "ctc": "5",
+        "location": ["Kolkata", "Hyderabad"],
+        "desc": "A Immediate Job opening for PWC!!",
+        "postedOn": "09-01-2022"
+    },
+    {
+        "id":4,
+        "title": "Software Development Manager",
+        "company": "Amazon",
+        "exp": "5",
+        "ctc": "55",
+        "location": ["Pune", "Mumbai"],
+        "desc": "Experience communicating with technical and non-technical stake.",
+        "postedOn": "07-15-2022"
+    },
+    {
+        "id":5,
+        "title": "SDE-1",
+        "company": "Amazon",
+        "exp": "0",
+        "ctc": "36",
+        "location": ["Remote"],
+        "desc": "Fresher",
+        "postedOn": "08-27-2022"
+    },
+    {
+        "id":6,
+        "title": "Software Engineer",
+        "company": "GlobalLogic",
+        "exp": "2",
+        "ctc": "8",
+        "location": ["Noida", "Banglore"],
+        "desc": "Compliance with company EHS policy in all aspects of production during the shift operat...",
+        "postedOn": "07-29-2022"
+    }
+]

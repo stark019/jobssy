@@ -1,0 +1,106 @@
+.parent-container {
+    display: flex;
+    margin: 100px 20px 40px 20px;
+}
+
+.filter-container {
+    background: #f8f9fa;
+    border-radius: 10px;
+    max-height: 500px;
+    margin-top: 30px;
+    width: 260px;
+}
+.filter-container h4 {
+    font-weight: 500;
+    font-size: 18px;
+    color: #455368;
+    margin: 20px;
+}
+.filter-container h6 {
+    font-weight: 500;
+    font-size: 14px;
+    color: #455368;
+    margin-bottom: 10px;
+}
+.filter-container div {
+    font-weight: 500;
+    font-size: 14px;
+    color: #455368;
+    margin: 20px;
+}
+.filter-btn {
+    background-color: #4B6587;
+    color: #f8f9fa;
+    margin-right: 5px;
+    width: fit-content;
+    font-size: 12px;
+}
+
+.salary-div ul {
+    padding: 0;
+    list-style: none;
+}
+.salary-div li {
+    margin: 5px;
+    margin-left: 0;
+}
+
+/*-----------------------------CARD PROPERTIES OF JOB LISTING COMPONENT-------------------- */
+.joblisting {
+    padding: 20px;
+}
+.user-job-list .card {
+    width: 100%;
+    border: none;
+    -webkit-box-shadow: 2px 4px 10px 1px rgb(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgb(201, 201, 201, 0.47);
+}
+.user-job-list .stats {
+    background: #f2f5f8 !important;
+    color: #000 !important;
+}
+.user-job-list .articles {
+    font-size: 10px;
+    color: #a1aab9;
+}
+.user-job-list .followers {
+    font-size: 10px;
+    color: #a1aab9;
+}
+.user-job-list .rating {
+    font-size: 10px;
+    color: #a1aab9;
+}
+.user-job-list .btn {
+    background-color: #4B6587;
+    margin-top: 5px;
+    height: fit-content;
+    font-size: 12px;
+}
+.number3 {
+    font-weight: 500;
+}
+.heading-timestamp {
+    display: flex;
+    justify-content: space-between;
+}
+.timestamp {
+    font-size: 10px;
+}
+.slider {
+    -webkit-appearance: none;
+    background: #C8C6C6;
+    width: 100%;
+    height: 5px;
+}
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+    background: #4B6587;
+    cursor: pointer;
+}
+input[type='radio'] {
+    accent-color: #4B6587 ;
+}

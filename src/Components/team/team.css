@@ -1,0 +1,28 @@
+
+
+.social-icons> a{
+    text-decoration: none;
+}
+
+.teamBox{
+    margin-top: 80px;
+}
+.teamBox .card{
+    -webkit-box-shadow: 2px 4px 10px 1px rgb(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgb(201, 201, 201, 0.47);
+    transition: all 0.3s;
+}
+.teamBox .avatar {
+    border: 0.3rem solid rgba(#fff, 0.3);
+    margin-top: -6rem;
+    margin-bottom: 1rem;
+    max-width: 9rem;
+    -webkit-box-shadow: 2px 4px 10px 1px rgb(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgb(201, 201, 201, 0.47);
+  }
+
+.teamBox .card:hover{
+    transform: scale(1.1);
+    transition: all 0.3s;
+
+}

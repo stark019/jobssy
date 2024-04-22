@@ -1,0 +1,46 @@
+.applied-job-parent-container {
+    padding: 80px;
+}
+.applied-job-parent-container h1 {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.applied-job-container .card {
+    width: 100%;
+    border: none;
+    -webkit-box-shadow: 2px 4px 10px 1px rgb(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgb(201, 201, 201, 0.47);
+}
+.applied-job-container .stats {
+    background: #f2f5f8 !important;
+    color: #000 !important;
+}
+.applied-job-container .articles {
+    font-size: 10px;
+    color: #a1aab9;
+}
+.applied-job-container .followers {
+    font-size: 10px;
+    color: #a1aab9;
+}
+.applied-job-container .rating {
+    font-size: 10px;
+    color: #a1aab9;
+}
+.applied-job-container .btn {
+    background-color: #4B6587;
+    margin-top: 5px;
+    height: fit-content;
+    font-size: 12px;
+}
+.number3 {
+    font-weight: 500;
+}
+.heading-timestamp {
+    display: flex;
+    justify-content: space-between;
+}
+.timestamp {
+    font-size: 10px;
+}

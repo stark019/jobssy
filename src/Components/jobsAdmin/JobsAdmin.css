@@ -1,0 +1,50 @@
+.joblistcontainer{
+    display: flex;
+}
+.joblistbox{
+    align-items: center;
+    justify-content: center;
+}
+.joblistbox .container{
+    margin-top: 20px;
+}
+.admin-job-list {
+    margin-top: 80px;
+}
+.admin-job-list .card {
+    width: 100%;
+    border: none;
+    -webkit-box-shadow: 2px 4px 10px 1px rgb(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgb(201, 201, 201, 0.47);
+}
+.admin-job-list .stats {
+    background: #f2f5f8 !important;
+    color: #000 !important;
+}
+.admin-job-list .articles {
+    font-size: 10px;
+    color: #a1aab9;
+}
+.admin-job-list .followers {
+    font-size: 10px;
+    color: #a1aab9;
+}
+.admin-job-list .rating {
+    font-size: 10px;
+    color: #a1aab9;
+}
+.admin-job-list .btn {
+    margin-top: 5px;
+    height: fit-content;
+    font-size: 10px;
+}
+.number3 {
+    font-weight: 500;
+}
+.heading-timestamp {
+    display: flex;
+    justify-content: space-between;
+}
+.timestamp {
+    font-size: 10px;
+}
